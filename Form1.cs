@@ -108,7 +108,7 @@ namespace CS311_Project3_ABE
                 {
                     double toppingPrice = 0.00; //initializes toppingPrice
                     string toppingName = control.Name.Substring(3); // Remove the "ckb" prefix
-                    
+
                     switch (toppingName)
                     {
                         case "Pepperoni":

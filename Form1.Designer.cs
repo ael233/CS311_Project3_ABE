@@ -94,9 +94,10 @@ namespace CS311_Project3_ABE
             // ckbMushroom
             // 
             ckbMushroom.AutoSize = true;
+            ckbMushroom.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbMushroom.Location = new Point(686, 297);
             ckbMushroom.Name = "ckbMushroom";
-            ckbMushroom.Size = new Size(163, 36);
+            ckbMushroom.Size = new Size(171, 36);
             ckbMushroom.TabIndex = 16;
             ckbMushroom.Text = "Mushroom";
             ckbMushroom.UseVisualStyleBackColor = true;
@@ -104,9 +105,10 @@ namespace CS311_Project3_ABE
             // ckbExtraCheese
             // 
             ckbExtraCheese.AutoSize = true;
+            ckbExtraCheese.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbExtraCheese.Location = new Point(686, 251);
             ckbExtraCheese.Name = "ckbExtraCheese";
-            ckbExtraCheese.Size = new Size(182, 36);
+            ckbExtraCheese.Size = new Size(190, 36);
             ckbExtraCheese.TabIndex = 15;
             ckbExtraCheese.Text = "Extra Cheese";
             ckbExtraCheese.UseVisualStyleBackColor = true;
@@ -114,9 +116,10 @@ namespace CS311_Project3_ABE
             // ckbJalapeno
             // 
             ckbJalapeno.AutoSize = true;
+            ckbJalapeno.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbJalapeno.Location = new Point(686, 209);
             ckbJalapeno.Name = "ckbJalapeno";
-            ckbJalapeno.Size = new Size(140, 36);
+            ckbJalapeno.Size = new Size(148, 36);
             ckbJalapeno.TabIndex = 14;
             ckbJalapeno.Text = "Jalapeno";
             ckbJalapeno.UseVisualStyleBackColor = true;
@@ -124,9 +127,10 @@ namespace CS311_Project3_ABE
             // ckbBananaPeppers
             // 
             ckbBananaPeppers.AutoSize = true;
+            ckbBananaPeppers.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbBananaPeppers.Location = new Point(686, 171);
             ckbBananaPeppers.Name = "ckbBananaPeppers";
-            ckbBananaPeppers.Size = new Size(215, 36);
+            ckbBananaPeppers.Size = new Size(228, 36);
             ckbBananaPeppers.TabIndex = 13;
             ckbBananaPeppers.Text = "Banana Peppers";
             ckbBananaPeppers.UseVisualStyleBackColor = true;
@@ -135,9 +139,10 @@ namespace CS311_Project3_ABE
             // ckbGreenOlives
             // 
             ckbGreenOlives.AutoSize = true;
+            ckbGreenOlives.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbGreenOlives.Location = new Point(416, 297);
             ckbGreenOlives.Name = "ckbGreenOlives";
-            ckbGreenOlives.Size = new Size(182, 36);
+            ckbGreenOlives.Size = new Size(190, 36);
             ckbGreenOlives.TabIndex = 12;
             ckbGreenOlives.Text = "Green Olives";
             ckbGreenOlives.UseVisualStyleBackColor = true;
@@ -145,9 +150,10 @@ namespace CS311_Project3_ABE
             // ckbBlackOlives
             // 
             ckbBlackOlives.AutoSize = true;
+            ckbBlackOlives.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbBlackOlives.Location = new Point(416, 255);
             ckbBlackOlives.Name = "ckbBlackOlives";
-            ckbBlackOlives.Size = new Size(173, 36);
+            ckbBlackOlives.Size = new Size(182, 36);
             ckbBlackOlives.TabIndex = 11;
             ckbBlackOlives.Text = "Black Olives";
             ckbBlackOlives.UseVisualStyleBackColor = true;
@@ -155,9 +161,10 @@ namespace CS311_Project3_ABE
             // ckbGreenPepper
             // 
             ckbGreenPepper.AutoSize = true;
+            ckbGreenPepper.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbGreenPepper.Location = new Point(416, 213);
             ckbGreenPepper.Name = "ckbGreenPepper";
-            ckbGreenPepper.Size = new Size(191, 36);
+            ckbGreenPepper.Size = new Size(201, 36);
             ckbGreenPepper.TabIndex = 10;
             ckbGreenPepper.Text = "Green Pepper";
             ckbGreenPepper.UseVisualStyleBackColor = true;
@@ -165,9 +172,10 @@ namespace CS311_Project3_ABE
             // ckbOnion
             // 
             ckbOnion.AutoSize = true;
+            ckbOnion.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbOnion.Location = new Point(416, 171);
             ckbOnion.Name = "ckbOnion";
-            ckbOnion.Size = new Size(112, 36);
+            ckbOnion.Size = new Size(116, 36);
             ckbOnion.TabIndex = 9;
             ckbOnion.Text = "Onion";
             ckbOnion.UseVisualStyleBackColor = true;
@@ -175,9 +183,10 @@ namespace CS311_Project3_ABE
             // ckbSpicyItalianSausage
             // 
             ckbSpicyItalianSausage.AutoSize = true;
+            ckbSpicyItalianSausage.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbSpicyItalianSausage.Location = new Point(89, 293);
             ckbSpicyItalianSausage.Name = "ckbSpicyItalianSausage";
-            ckbSpicyItalianSausage.Size = new Size(268, 36);
+            ckbSpicyItalianSausage.Size = new Size(285, 36);
             ckbSpicyItalianSausage.TabIndex = 8;
             ckbSpicyItalianSausage.Text = "Spicy Italian Sausage";
             ckbSpicyItalianSausage.UseVisualStyleBackColor = true;
@@ -185,9 +194,10 @@ namespace CS311_Project3_ABE
             // ckbCanadianBacon
             // 
             ckbCanadianBacon.AutoSize = true;
+            ckbCanadianBacon.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbCanadianBacon.Location = new Point(89, 251);
             ckbCanadianBacon.Name = "ckbCanadianBacon";
-            ckbCanadianBacon.Size = new Size(217, 36);
+            ckbCanadianBacon.Size = new Size(229, 36);
             ckbCanadianBacon.TabIndex = 7;
             ckbCanadianBacon.Text = "Canadian Bacon";
             ckbCanadianBacon.UseVisualStyleBackColor = true;
@@ -195,9 +205,10 @@ namespace CS311_Project3_ABE
             // ckbSausage
             // 
             ckbSausage.AutoSize = true;
+            ckbSausage.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbSausage.Location = new Point(89, 209);
             ckbSausage.Name = "ckbSausage";
-            ckbSausage.Size = new Size(134, 36);
+            ckbSausage.Size = new Size(139, 36);
             ckbSausage.TabIndex = 6;
             ckbSausage.Text = "Sausage";
             ckbSausage.UseVisualStyleBackColor = true;
@@ -205,9 +216,10 @@ namespace CS311_Project3_ABE
             // ckbPepperoni
             // 
             ckbPepperoni.AutoSize = true;
+            ckbPepperoni.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             ckbPepperoni.Location = new Point(89, 167);
             ckbPepperoni.Name = "ckbPepperoni";
-            ckbPepperoni.Size = new Size(154, 36);
+            ckbPepperoni.Size = new Size(163, 36);
             ckbPepperoni.TabIndex = 5;
             ckbPepperoni.Text = "Pepperoni";
             ckbPepperoni.UseVisualStyleBackColor = true;
@@ -318,9 +330,10 @@ namespace CS311_Project3_ABE
             // lblOrderSummary
             // 
             lblOrderSummary.AutoSize = true;
+            lblOrderSummary.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             lblOrderSummary.Location = new Point(82, 626);
             lblOrderSummary.Name = "lblOrderSummary";
-            lblOrderSummary.Size = new Size(188, 32);
+            lblOrderSummary.Size = new Size(203, 32);
             lblOrderSummary.TabIndex = 3;
             lblOrderSummary.Text = "Order Summary:";
             lblOrderSummary.Click += label5_Click;
@@ -335,38 +348,43 @@ namespace CS311_Project3_ABE
             // 
             // btnCalculate
             // 
+            btnCalculate.BackColor = SystemColors.AppWorkspace;
+            btnCalculate.Font = new Font("Segoe UI", 13.875F, FontStyle.Bold, GraphicsUnit.Point);
             btnCalculate.Location = new Point(959, 786);
             btnCalculate.Name = "btnCalculate";
             btnCalculate.Size = new Size(266, 119);
             btnCalculate.TabIndex = 5;
             btnCalculate.Text = "Calculate";
-            btnCalculate.UseVisualStyleBackColor = true;
+            btnCalculate.UseVisualStyleBackColor = false;
             btnCalculate.Click += btnCalculate_Click;
             // 
             // lblSubtotal
             // 
             lblSubtotal.AutoSize = true;
+            lblSubtotal.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             lblSubtotal.Location = new Point(962, 629);
             lblSubtotal.Name = "lblSubtotal";
-            lblSubtotal.Size = new Size(108, 32);
+            lblSubtotal.Size = new Size(117, 32);
             lblSubtotal.TabIndex = 6;
             lblSubtotal.Text = "Subtotal:";
             // 
             // lblTax
             // 
             lblTax.AutoSize = true;
+            lblTax.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             lblTax.Location = new Point(1011, 677);
             lblTax.Name = "lblTax";
-            lblTax.Size = new Size(52, 32);
+            lblTax.Size = new Size(59, 32);
             lblTax.TabIndex = 7;
             lblTax.Text = "Tax:";
             // 
             // lblTotal
             // 
             lblTotal.AutoSize = true;
+            lblTotal.Font = new Font("Segoe UI", 9F, FontStyle.Bold, GraphicsUnit.Point);
             lblTotal.Location = new Point(993, 722);
             lblTotal.Name = "lblTotal";
-            lblTotal.Size = new Size(70, 32);
+            lblTotal.Size = new Size(77, 32);
             lblTotal.TabIndex = 8;
             lblTotal.Text = "Total:";
             // 
